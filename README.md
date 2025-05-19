@@ -10,11 +10,37 @@ I enjoy learning new languages and frameworks, exploring creative ways to make t
 When I’m not coding or fiddling with assignments, I’m probably binging TV-shows, or playing video games (mostly FC). These days when codes don't meet expectations, I keep my mental sanity with memes or watching the same FRIENDS clips —because let’s be honest, a F.R.I.E.N.D.S is the best sitcom ever!
 
 ## Skills and Experience
-* 💻 Languages: HTML, CSS, JavaScript, Java, C++, Python
-* ⚙️ Tools & Frameworks: Git, Node.js
-* 🎨 Interests: Full-Stack Development, UX Design, Software Engineering
+<p align="center">
+
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/node.js%20-%23F05033.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/adobe%20-%23E34F26.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
+</p>
+
 
 <hr>
+
+<p align=center> 
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=soikat27&layout=compact&theme=radical">
+</p>
+
+<p align=center>
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=soikat27&show_icons=true&theme=radical">
+</p>
+
+<hr>
+
+<p align="center">
+<a href="https://github.com/soikat27"><img src="https://img.shields.io/github/followers/soikat27?style=social"></a>
+</p>
 
 <p align=center>
   <a href="https://github.com/soikat27">
@@ -25,14 +51,3 @@ When I’m not coding or fiddling with assignments, I’m probably binging TV-sh
   </a>
 </p>
 
-
-
-<p align="center">
-<a href="https://github.com/soikat27"><img src="https://img.shields.io/github/followers/soikat27?style=social"></a>
-</p>
-
-<hr>
-
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=soikat27&show_icons=true&theme=radical">
-</p>
