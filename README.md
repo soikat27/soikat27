@@ -42,6 +42,11 @@ When I’m not coding or fiddling with assignments, I’m probably binging TV-sh
 
 <hr>
 
+
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/yash-sahijwani-b36aa3149/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+
 <p align="center">
 <a href="https://github.com/soikat27"><img src="https://img.shields.io/github/followers/soikat27?style=social"></a>
 </p>
