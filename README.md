@@ -11,7 +11,7 @@ I enjoy learning new languages and frameworks, exploring creative ways to make t
 
 ##
 
-When I’m not coding or fiddling with assignments, I’m probably binging TV-shows, or playing video games (mostly FC). These days when codes don't meet expectations, I keep my mental sanity with memes or watching the same FRIENDS clips —because let’s be honest, a F.R.I.E.N.D.S is the best sitcom ever!
+When I’m not coding or fiddling with assignments, I’m probably binging TV-shows, or playing video games (mostly FC). These days when codes don't meet expectations, I keep my mental sanity with memes or watching the same FRIENDS clips —because let’s be honest, F.R.I.E.N.D.S is the best sitcom ever!
 
 ## Skills and Experience
 <p align="center">
