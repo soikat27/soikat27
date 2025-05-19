@@ -1,3 +1,7 @@
+<p align="center">
+ <img  width="800" height="400" src="https://github.com/soikat27/soikat27/blob/main/svg/luminance.svg">
+</p>
+
 # Soikat Saha
 Hi! I’m Soikat, originally from Bangladesh 🇧🇩 and currently studying Computer Science & Mathematics at Gettysburg College in the U.S.
 
