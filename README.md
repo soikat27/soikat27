@@ -1,5 +1,9 @@
 # Soikat Saha
-I'm Soikat originally from Bangladesh. I study Computer science & Mathematics at Gettysburg College in the US. I am enthusiastic about developing softwares that solve problems or often turn current solution to a more user-frindly one. I really enjoy learning languages and frameworks and looking for a new yet easier solutions that help users navigate at ease! I also enjoy developing websites, and design in general. 
+Hi! I’m Soikat, originally from Bangladesh 🇧🇩 and currently studying Computer Science & Mathematics at Gettysburg College in the U.S.
+
+I’m passionate about developing software that solves real-world problems—or just makes existing solutions easier and more enjoyable to use. Whether it’s simplifying user interaction or building something cool from scratch, I love finding elegant ways to improve everyday digital experiences.
+
+I enjoy learning new languages and frameworks, exploring creative ways to make tech more accessible, and diving into web development and design. 
 
 ## Skills and Experience
 * 💻 HTML, CSS, JS
