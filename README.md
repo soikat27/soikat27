@@ -16,7 +16,7 @@ I like building software that solves real problems in a way people actually enjo
 I heard this from Andy Harris and it stuck with me.  
 Computers don’t “understand” what we mean — they only do exactly what we tell them.
 
-`Put simply:` comments aren’t there to explain code to humans — code is there to explain comments to machines (hence, back to: computer is dumb!).
+`Put another way:` comments aren’t there to explain code to humans — code is there to explain comments to machines (hence, back to: computer is dumb!).
 
 ##
 
