@@ -72,8 +72,8 @@ Current watch: **The Office** (already Team Jim and Pam).
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soikat27&layout=compact&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=soikat27&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=soikat27&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api?username=soikat27&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
 </p>
 
 <p align="center">
